@@ -2,6 +2,8 @@
 
 A Thriving PostgreSQL Ecosystem.
 
+https://pg-x.github.io/
+
 微信公众号: PostgreSQL开源生态
 
 ![wechat](https://pg-x.github.io/images/wechat_qrcode.jpg)
